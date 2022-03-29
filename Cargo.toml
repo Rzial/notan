@@ -1,6 +1,6 @@
 [package]
 name = "notan"
-version = "0.2.1"
+version = "0.3.6"
 authors = ["Nazarí González <nazari.nz@gmail.com>"]
 edition = "2021"
 categories = ["graphics", "rendering", "wasm", "gui", "multimedia"]
